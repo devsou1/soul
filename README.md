@@ -6,4 +6,5 @@
 sudo pacman -S yay
 ```
 
-add after PR
+ add after PR
+ yet another
